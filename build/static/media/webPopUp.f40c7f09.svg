@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="69px" viewBox="0 0 124 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>544C963C-8E5E-4595-8361-FA611EB8C744</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="124" height="69" rx="6"></rect>
+        <filter x="-104.1%" y="-175.0%" width="308.3%" height="450.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="42" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <rect id="path-4" x="14" y="8" width="96" height="54" rx="4"></rect>
+        <filter x="-7.3%" y="-9.3%" width="114.6%" height="125.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.13 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asset/Create/Web-Pop-Up">
+            <g id="Group-25-Copy-2">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle" fill-rule="nonzero"></g>
+                <rect id="Rectangle" fill="#D3F0D4" fill-rule="nonzero" filter="url(#filter-3)" mask="url(#mask-2)" x="2" y="0" width="121" height="72"></rect>
+            </g>
+            <g id="Rectangle" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FFFFFF" xlink:href="#path-4"></use>
+            </g>
+            <path d="M104.500031,14 L105.886118,12.6139136 C106.031877,12.4681545 106.038627,12.23614 105.901119,12.0988815 C105.76386,11.9613729 105.531846,11.9681233 105.386086,12.1138824 L104,13.4999688 L102.613914,12.1138824 C102.468154,11.9681233 102.23614,11.9613729 102.098881,12.0988815 C101.961373,12.23614 101.968123,12.4681545 102.113882,12.6139136 L103.499969,14 L102.113882,15.3860864 C101.968123,15.5318455 101.961373,15.76386 102.098881,15.9011185 C102.23614,16.0386271 102.468154,16.0318767 102.613914,15.8861176 L104,14.5000312 L105.386086,15.8861176 C105.531846,16.0318767 105.76386,16.0386271 105.901119,15.9011185 C106.038627,15.76386 106.031877,15.5318455 105.886118,15.3860864 L104.500031,14 Z" id="Fill-1" fill="#D3F0D4" fill-rule="nonzero"></path>
+            <rect id="Rectangle-Copy-9" fill="#F0F0F0" fill-rule="nonzero" x="28" y="35" width="68" height="4" rx="1"></rect>
+            <rect id="Rectangle-Copy-10" fill="#F0F0F0" fill-rule="nonzero" x="28" y="42" width="68" height="4" rx="1"></rect>
+            <rect id="Rectangle-Copy-11" fill="#F0F0F0" fill-rule="nonzero" x="39" y="49" width="47" height="4" rx="1"></rect>
+            <rect id="Rectangle" fill="#D3F0D4" fill-rule="nonzero" x="43" y="14" width="38" height="16" rx="2"></rect>
+        </g>
+    </g>
+</svg>

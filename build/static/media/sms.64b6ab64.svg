@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="69px" viewBox="0 0 124 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>5E5D4269-D7E6-497E-9E85-ACB003C5C1D8</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="124" height="69" rx="6"></rect>
+        <filter x="-104.1%" y="-175.0%" width="308.3%" height="450.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="42" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asset/Create/SMS">
+            <g id="Group-25-Copy-2">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle" fill-rule="nonzero"></g>
+                <rect id="Rectangle" fill="#D3F0D4" fill-rule="nonzero" filter="url(#filter-3)" mask="url(#mask-2)" x="2" y="0" width="121" height="72"></rect>
+                <path d="M8,6 L90,6 C92.209139,6 94,7.790861 94,10 L94,32 C94,34.209139 92.209139,36 90,36 L12,36 C9.790861,36 8,34.209139 8,32 L8,6 Z" id="Rectangle" fill="#D3F0D4" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                <rect id="Rectangle" fill="#ADE3AF" fill-rule="nonzero" mask="url(#mask-2)" x="15" y="12" width="72" height="4" rx="1"></rect>
+                <rect id="Rectangle-Copy-7" fill="#ADE3AF" fill-rule="nonzero" mask="url(#mask-2)" x="15" y="19" width="72" height="4" rx="1"></rect>
+                <rect id="Rectangle-Copy-8" fill="#ADE3AF" fill-rule="nonzero" mask="url(#mask-2)" x="15" y="26" width="57" height="4" rx="1"></rect>
+                <path d="M30,42 L112,42 C114.209139,42 116,43.790861 116,46 L116,59 C116,61.209139 114.209139,63 112,63 L34,63 C31.790861,63 30,61.209139 30,59 L30,42 Z" id="Rectangle-Copy-6" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(73.000000, 52.500000) scale(-1, 1) translate(-73.000000, -52.500000) "></path>
+                <rect id="Rectangle-Copy-9" fill="#F0F0F0" fill-rule="nonzero" mask="url(#mask-2)" x="37" y="47" width="72" height="4" rx="1"></rect>
+                <rect id="Rectangle-Copy-10" fill="#F0F0F0" fill-rule="nonzero" mask="url(#mask-2)" x="37" y="54" width="72" height="4" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

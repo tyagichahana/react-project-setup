@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="148px" height="82px" viewBox="0 0 148 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>A0873255-CE9C-4900-9916-F2DA861506CC</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="148" height="82" rx="6"></rect>
+        <filter x="-87.2%" y="-147.3%" width="274.5%" height="394.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="42" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <path d="M9.16129032,5.94202899 L140.032258,5.94202899 C141.136828,5.94202899 142.032258,6.83745949 142.032258,7.94202899 L142.032258,85.5652174 L7.16129032,85.5652174 L7.16129032,7.94202899 C7.16129032,6.83745949 8.05672082,5.94202899 9.16129032,5.94202899 Z" id="path-4"></path>
+        <filter x="-5.2%" y="-6.3%" width="110.4%" height="117.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.13 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-6" points="50.1290323 55.8550725 148 86.0408473 50.1290323 86.0408473"></polygon>
+        <filter x="-10.2%" y="-26.5%" width="120.4%" height="166.3%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Home-Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1024-copy" transform="translate(-828.000000, -241.000000)">
+            <g id="Group-4-Copy-3" transform="translate(812.000000, 194.000000)">
+                <g id="Asset/Create/Email" transform="translate(16.000000, 47.000000)">
+                    <g id="Group-25-Copy-3">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Rectangle" fill-rule="nonzero"></g>
+                        <rect id="Rectangle" fill="#D3F0D4" fill-rule="nonzero" filter="url(#filter-3)" mask="url(#mask-2)" x="2.38709677" y="0" width="144.419355" height="85.5652174"></rect>
+                        <g id="Rectangle" fill-rule="nonzero" mask="url(#mask-2)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                        </g>
+                        <rect id="Rectangle" fill="#D3F0D4" fill-rule="nonzero" mask="url(#mask-2)" x="16.7096774" y="13.0724638" width="115.774194" height="26.1449275" rx="1"></rect>
+                        <rect id="Rectangle-Copy-3" fill="#F0F0F0" fill-rule="nonzero" mask="url(#mask-2)" x="16.7096774" y="43.9710145" width="115.774194" height="4.75362319" rx="1"></rect>
+                        <rect id="Rectangle-Copy-4" fill="#F0F0F0" fill-rule="nonzero" mask="url(#mask-2)" x="16.7096774" y="52.2898551" width="115.774194" height="4.75362319" rx="1"></rect>
+                        <rect id="Rectangle-Copy-5" fill="#F0F0F0" fill-rule="nonzero" mask="url(#mask-2)" x="16.7096774" y="60.6086957" width="72.8064516" height="4.75362319" rx="1"></rect>
+                        <polygon id="Path-6" fill="#D3F0D4" fill-rule="nonzero" mask="url(#mask-2)" points="0 55.8550725 97.8709677 86.0408473 0 86.0408473"></polygon>
+                        <g id="Path-6-Copy" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(99.064516, 70.947960) scale(-1, 1) translate(-99.064516, -70.947960) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                            <use fill="#D3F0D4" xlink:href="#path-6"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

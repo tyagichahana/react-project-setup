@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>5CFBA225-C0D3-4162-BCE7-744D8931CCC2</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asset/Icon/Add">
+            <g id="Group">
+                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M16.25,13.25 L13.25,13.25 L13.25,16.25 C13.25,16.938 12.687,17.5 12,17.5 C11.313,17.5 10.75,16.938 10.75,16.25 L10.75,13.25 L7.75,13.25 C7.062,13.25 6.5,12.688 6.5,12 C6.5,11.313 7.062,10.75 7.75,10.75 L10.75,10.75 L10.75,7.75 C10.75,7.063 11.313,6.5 12,6.5 C12.687,6.5 13.25,7.063 13.25,7.75 L13.25,10.75 L16.25,10.75 C16.937,10.75 17.5,11.313 17.5,12 C17.5,12.688 16.937,13.25 16.25,13.25 M12,2 C6.478,2 2,6.478 2,12 C2,17.522 6.478,22 12,22 C17.522,22 22,17.522 22,12 C22,6.478 17.522,2 12,2" id="Fill-1" fill="#42B549"></path>
+            </g>
+        </g>
+    </g>
+</svg>

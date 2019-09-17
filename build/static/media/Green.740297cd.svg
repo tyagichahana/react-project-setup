@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Home/Green</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon/Home/Green" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+            <path d="M22.42,12.88175 L13.13,3.59175 L13.124,3.58575 C12.343,2.80475 11.077,2.80475 10.296,3.58575 L10.29,3.59175 L1,12.88175 L2.42,14.30175 L3.71,13.01175 L3.71,19.59175 C3.71,20.69575 4.606,21.59175 5.71,21.59175 L8.71,21.59175 L8.71,17.59175 C8.71,16.48675 9.606,15.59175 10.71,15.59175 L12.71,15.59175 C13.815,15.59175 14.71,16.48675 14.71,17.59175 L14.71,21.59175 L17.71,21.59175 C18.815,21.59175 19.71,20.69575 19.71,19.59175 L19.71,13.01175 L21,14.30175 L22.42,12.88175 Z" id="Fill-1" fill="#42B549"></path>
+        </g>
+    </g>
+</svg>
